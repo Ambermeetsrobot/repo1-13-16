@@ -18,3 +18,27 @@ p.author {
   font-family: cursive;
   color: green;
 }
+
+.sidebar {
+  /*width: 30%;
+  float: right;*/
+  background-color: yellow;
+  padding: 1em;
+}
+
+h1 {
+    margin-left: 1em;
+}
+h2 {
+  line-height:0%;
+  margin-top: 0%;
+}
+
+p {
+  margin-top: 0%;
+}
+.column {
+  width: 31%;
+  float:right;
+  margin-right: 1%;
+}
